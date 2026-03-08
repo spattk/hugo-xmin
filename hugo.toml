@@ -1,0 +1,4 @@
+baseURL = 'https://merry-kheer-74befa.netlify.app/'
+languageCode = 'en-us'
+title = 'My New Site'
+theme = 'hugo-xmin'  # This MUST match the folder name in /themes
